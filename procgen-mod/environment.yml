@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12.6
+  - numpy==2.1.0
+  - filelock==3.16.1
+  - cffi==1.17.1
